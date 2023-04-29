@@ -4,6 +4,8 @@ Seja Bem Vindo ao Projeto API Marvel!
 --OBJETIVO--
 O intuito de desenvolver o site não é só para a pessoa ver seus personagens
 favoritos, mas também ver HQs relacionados ao mesmo.
+No final da pagina, após a pesquisa havera diversos links para o usuario ler
+o conteudo solicitado.
 
 Caso deseje apenas usar o site, vá por aqui -> (site no ar)
 
