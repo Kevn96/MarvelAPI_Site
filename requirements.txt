@@ -1,3 +1,4 @@
+marvel==0.1.0
 appdirs==1.4.4
 async-generator==1.10
 attrs==23.1.0
@@ -31,7 +32,6 @@ Jinja2==3.1.2
 jmespath==1.0.1
 lxml==4.9.2
 MarkupSafe==2.1.2
-marvel==0.1.0
 MechanicalSoup==1.2.0
 outcome==1.2.0
 packaging==23.1
