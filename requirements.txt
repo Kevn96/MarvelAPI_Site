@@ -1,5 +1,5 @@
 marvel==0.1.0
-wheel==0.37.1
+wheel==0.40.0
 appdirs==1.4.4
 async-generator==1.10
 attrs==23.1.0
