@@ -12,7 +12,7 @@ fazer alterações leia com atenção.
 
 - Caso queira fazer alterações, primeiro selecione
 uma pasta do seu computador e digite:
-git clone (link do github do projeto)
+git clone https://github.com/Kevn96/MarvelAPI_Site.git
 
 - Caso encontre bugs ou tenha sugestões peço que entre em contato comigo
 usando meu e-mail:
