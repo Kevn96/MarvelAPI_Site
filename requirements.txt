@@ -1,4 +1,5 @@
 marvel==0.1.0
+sudo apt install python3-wheel
 appdirs==1.4.4
 async-generator==1.10
 attrs==23.1.0
