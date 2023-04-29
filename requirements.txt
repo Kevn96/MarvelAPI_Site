@@ -46,7 +46,7 @@ pyOpenSSL==23.1.1
 pyquery==2.0.0
 PySocks==1.7.1
 queuelib==1.6.2
-requests
+requests==2.20.0
 requests-file==1.5.1
 service-identity==21.1.0
 six==1.16.0
